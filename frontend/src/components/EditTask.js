@@ -71,7 +71,7 @@ const EditTask = () => {
   return (
     <Box sx={{ maxWidth: 800, margin: 'auto', mt: 4 }}>
       {loading ? (
-        <Typography>Loading task details...</Typography>
+        <Typography>Loading the task details...</Typography>
       ) : (
         <Box>
           {/* Task Details Heading */}
