@@ -42,7 +42,7 @@ const AddCategory = () => {
   return (
     <Box sx={{ maxWidth: 800, margin: 'auto', mt: 4 }}>
       <Typography variant="h4" gutterBottom sx={{ textAlign: 'center', fontWeight: 600, color: '#7A4BFF' }}>
-        Manage Categories
+        Manage your Categories
       </Typography>
 
       <Paper sx={{ p: 4, backgroundColor: '#F4F5FC', borderRadius: '20px', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.05)' }}>

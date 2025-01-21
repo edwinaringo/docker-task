@@ -53,7 +53,7 @@ const AddTask = () => {
   return (
     <Box sx={{ maxWidth: 800, margin: 'auto', mt: 4 }}>
       <Typography variant="h4" gutterBottom sx={{ color: '#7A4BFF', textAlign: 'center', fontWeight: '600' }}>
-        Create a New Task
+        Create New Task
       </Typography>
 
       <Paper sx={{ p: 4, backgroundColor: '#F4F5FC', borderRadius: '20px', boxShadow: '0px 4px 20px rgba(0, 0, 0, 0.05)' }}>
